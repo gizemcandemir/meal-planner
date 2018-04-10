@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  preperation: MyText
+  prep_time_minutes: 1
+  cook_time_minutes: 1
+
+two:
+  title: MyString
+  preperation: MyText
+  prep_time_minutes: 1
+  cook_time_minutes: 1
